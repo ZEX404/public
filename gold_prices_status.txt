@@ -2,7 +2,7 @@
 {
   "status": true,
   "maintenance": false,
-  "fetch_type": 1,
+  "fetch_type": 2,
   "latest_version":"2.0.5",
   "build_version":11,
   "dialogue": {
