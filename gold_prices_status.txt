@@ -1,11 +1,11 @@
 [
 {
   "status": true,
-  "maintenance": true,
+  "maintenance": false,
   "fetch_type": 2,
   "latest_version":"2.0.5",
   "build_version":11,
-  "display_ads":true,
+  "display_ads":false,
   "dialogue": {
     "link":"https://play.google.com/store/apps/details?id=com.zex.gold",
     "title": "يتوفر تحديث جديد",
