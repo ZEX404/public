@@ -1,6 +1,6 @@
 {
   "working": true,
-  "showAds": false,
+  "showAds": true,
   "latestVersion": "3.0.0+15",
   "updateUrl": "https://play.google.com/store/apps/details?id=com.zex.gold",
   "maintenanceMessage": "التطبيق تحت الصيانة حالياً. يرجى المحاولة لاحقاً.",
