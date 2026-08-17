@@ -1,6 +1,6 @@
 {
   "working": true,
-  "showAds": false,
+  "showAds": true,
   "mode": 2,
   "latestVersion": "8.0.2+22",
   "updateUrl": "https://play.google.com/store/apps/details?id=com.zex.gold",
